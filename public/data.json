@@ -1,6 +1,6 @@
 [
     {
-      "title": "Project management",
+      "title": "Analytics",
       "content": [
         {
           "type": "paragraph",
@@ -21,28 +21,15 @@
       ]
     },
     {
-      "title": "Analytics",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
-        },
-        {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
-        }
-      ]
-    },
-    {
       "title": "Digital marketing",
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "The main objectives of digital marketing are to promote the brand, increase conversions using various impacts on the target audience, the expansion of channels to attract traffic. To do this, we use tools that include advertising and PR."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "Due to Digital Marketing, the maximum coverage of the audience and the interaction of all channels with each other is achieved."
         }
       ]
     },
@@ -51,11 +38,11 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "Search Engine Optimization is a set of actions aimed to increase the position of the website in the results of search queries."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "The method allows you to receive constant organic traffic from popular search engines such as Google, Yandex, etc. As the result, wide coverage of potential customers and recognition of your project among competitors is achieved."
         }
       ]
     },
@@ -64,11 +51,11 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "Social media marketing is a set of activities through social media that promote the website and attract potential customers. SMM allows you to build closer relationships with customers and gain their trust."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "The most popular platforms such as Facebook, Youtube, Twitter, Vkontakte, Instagram, etc. are used."
         }
       ]
     },
@@ -77,11 +64,20 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "Content marketing is a marketing technology for creating and distributing relevant qualitative content in order to attract the target audience."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "This is a presentation of useful and interesting information, that:"
+        },
+        {
+          "type": "list",
+          "elements": [
+            "is frequently requested in search engines;",
+            "is popular to be read on information sites;",
+            "is currently a hot issue and attracts interest;",
+            "is the one user wants to receive and ready to give contact details in exchange."
+          ]
         }
       ]
     },
@@ -90,11 +86,19 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "Brand reputation management in search engines (Search Engine Reputation Management). A set of measures aimed at increasing the amount of positive content about the company, site and brand on the network."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "SERM activity include:"
+        },
+        {
+          "type": "list",
+          "elements": [
+            "Creation of positive PR publications",
+            "Moving negative information from the first pages of search results",
+            "Relocation of positive information to higher positions, etc."
+          ]
         }
       ]
     },
@@ -103,11 +107,7 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
-        },
-        {
-          "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "Affiliate marketing is one of the effective methods of promoting a business on the Internet. With its help, traffic is attracted through affiliate programs, teaser, banner and other types of traffic are provided. The program involves webmaster partners who, for a fee, attract target users by any working method."
         }
       ]
     },
@@ -116,11 +116,19 @@
       "content": [
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+          "text": "Email Marketing is an important tool of digital marketing, with the help of which direct communication is formed between the business and the client."
         },
         {
           "type": "paragraph",
-          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+          "text": "The effectiveness of e-mail marketing is achieved through the process of personalization. With the consent of the client, the company sends out email messages, which may include:"
+        },
+        {
+          "type": "list",
+          "elements": [
+            "advertising",
+            "news",
+            "informative information, etc."
+          ]
         }
       ]
     }
