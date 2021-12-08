@@ -1,0 +1,39 @@
+<svg width="1920" height="798" viewBox="0 0 1920 798" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M636.5 31.584C348.9 8.88617 93 83.0625 0 123.471V798H1920V0C1384 284.802 1206 76.5298 636.5 31.584Z" fill="url(#paint0_radial_6_219)"/>
+<mask id="mask0_6_219" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1920" height="798">
+<path d="M636.5 31.584C348.9 8.88617 93 83.0625 0 123.471V798H1920V0C1384 284.802 1206 76.5298 636.5 31.584Z" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_6_219)">
+<circle cx="295.198" cy="40.198" r="245" transform="rotate(47.3214 295.198 40.198)" fill="url(#paint1_linear_6_219)"/>
+<circle cx="1611.99" cy="575.201" r="327.99" fill="url(#paint2_radial_6_219)"/>
+<circle cx="414.019" cy="233.967" r="115" transform="rotate(47.3214 414.019 233.967)" fill="url(#paint3_linear_6_219)"/>
+<circle opacity="0.75" cx="1678.66" cy="747.404" r="184.656" fill="url(#paint4_linear_6_219)"/>
+<circle cx="1794.11" cy="594.109" r="58.1085" fill="url(#paint5_linear_6_219)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_6_219" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(813.5 448.568) rotate(-71.9132) scale(471.885 1086.68)">
+<stop stop-color="#2F5AD5"/>
+<stop offset="1" stop-color="#2F3C98"/>
+</radialGradient>
+<linearGradient id="paint1_linear_6_219" x1="149.789" y1="-22.1993" x2="582.455" y2="97.9065" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3649B0"/>
+<stop offset="1" stop-color="#3049B2"/>
+</linearGradient>
+<radialGradient id="paint2_radial_6_219" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1611.99 582.531) rotate(47.6224) scale(339.82)">
+<stop stop-color="#6378EC"/>
+<stop offset="1" stop-color="#304AB5" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint3_linear_6_219" x1="286.072" y1="254.76" x2="491.691" y2="229.44" gradientUnits="userSpaceOnUse">
+<stop stop-color="#374EBC"/>
+<stop offset="1" stop-color="#3050C0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_6_219" x1="1558" y1="577" x2="1785.5" y2="845.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B862F3"/>
+<stop offset="1" stop-color="#303D99"/>
+</linearGradient>
+<linearGradient id="paint5_linear_6_219" x1="1736" y1="618.643" x2="1852.22" y2="556.661" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B862F3"/>
+<stop offset="1" stop-color="#424AB6" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

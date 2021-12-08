@@ -1,0 +1,127 @@
+[
+    {
+      "title": "Project management",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This is a necessary initial stage of preparation for the promotion of the site. Comprehensive analysis includes:"
+        },
+        {
+          "type": "list",
+          "elements": [
+            "Analysis of niche;",
+            "Analysis of competitors - from technical characteristics of the site to loyalty programs;",
+            "Analysis of the audience."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On its basis the strategy is drawn up to achieve the goals."
+        }
+      ]
+    },
+    {
+      "title": "Analytics",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "Digital marketing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "SEO",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "SMM",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "Content marketing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "SERM",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "Affiliate Marketing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    },
+    {
+      "title": "E-mail Marketing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos placeat esse veniam ad repellat ut."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo quia repudiandae rem odit eos delectus architecto praesentium tenetur error eveniet."
+        }
+      ]
+    }
+]
