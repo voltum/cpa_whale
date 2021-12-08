@@ -51,8 +51,8 @@ function Contacts() {
             <div className={`${styles.container} ${styles.container_contacts}`}>
                 <h2>Contacts</h2>
                 <ul className={styles.contacts_line}>
-                    <li><span>i </span>info@CPAWhale.marketing</li>
-                    <li><span>i </span>FL.H-01397, Ajman Free Zone, United Arab Emirates</li>
+                    <li><span> </span>info@CPAWhale.marketing</li>
+                    <li><span> </span>FL.H-01397, Ajman Free Zone, United Arab Emirates</li>
                 </ul>
                 <form className={styles.contacts_form} onSubmit={onSubmit}>
                     <input type="tel" name="phone_number" placeholder="Phone number" required/>

@@ -215,6 +215,7 @@
   position: relative;
   transition: 0.15s;
   font-size: 17px;
+  padding-left: 20px;
 }
 
 .services_nav_item_active{
@@ -232,7 +233,7 @@
   position: absolute;
   width: 8px;
   height: 15px;
-  left: -20px;
+  left: 0;
   top: 9px;
   background: url(../public/img/marker.svg) no-repeat;
 }

@@ -41,7 +41,7 @@ function Services({data, initial = 0}) {
                                     ))}
                                 </div>
                                 <div className={styles.services_card_icon}>
-                                    Icon
+                                    
                                 </div>
                             </div>
                         </div>
