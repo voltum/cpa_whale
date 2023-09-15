@@ -1,5 +1,5 @@
 .header {
-  background: url(../public/img/head_bg.svg) no-repeat;
+  background: url(../public/img/head_bg2.svg) no-repeat;
   background-size: cover;
   background-position: center bottom;
   min-height: 600px;
@@ -88,7 +88,7 @@
 .head_nav_mobile .overlay{
   width: 100%;
   height: 100%;
-  background-color: #3050C0;
+  background-color: #000;
   opacity: 0.97;
 }
 
@@ -159,7 +159,7 @@
   position: absolute;
   width: 500px;
   height: 550px;
-  background: url(../public/img/head_img.svg) no-repeat;
+  background: url(../public/img/head_img2.svg) no-repeat;
   background-size: contain;
   top: -80px;
   right: 0px;
@@ -191,7 +191,7 @@
   position: absolute;
   width: 461px;
   height: 461px;
-  background: url(../public/img/about_img.svg) no-repeat;
+  background: url(../public/img/about_img2.svg) no-repeat;
   background-size: contain;
   top: -50px;
   right: 0;
@@ -224,7 +224,7 @@
 }
 
 .services_nav ul li:hover{
-  color: #5970EA;
+  color: #000;
 }
 
 .services_nav ul li::before{
@@ -247,9 +247,9 @@
 } */
 
 .services_card{
-  background: url(../public/img/service_card_bg.svg) no-repeat;
+  background: url(../public/img/service_card_bg2.svg) no-repeat;
   background-size: cover;
-  background-position: right top;
+  background-position: left top;
   color: white;
   padding: 46px 52px;
   border-radius: 20px;
@@ -280,7 +280,7 @@
   left: -90px;  
   bottom: -90px;
   z-index: -1;
-  background: url(../public/img/card_circle.svg) no-repeat;
+  background: url(../public/img/card_circle2.svg) no-repeat;
 }
 
 .services_card_content{
@@ -315,7 +315,7 @@
 .contacts {
   display: flex;
   align-items: flex-end;
-  background: url(../public/img/footer_bg.svg) no-repeat;
+  background: url(../public/img/footer_bg2.svg) no-repeat;
   background-size: cover;
   background-position: center top;
   min-height: 750px;
@@ -375,19 +375,20 @@
   text-transform: uppercase;
   color: white;
   border: 2px solid transparent;
-  background-color: #02A3FF;
+  background-color: #F7904C;
+  box-shadow: 0px 10px 10px 0px rgba(40, 49, 111, 0.25);
   border-radius: 50px;
   transition: 0.15s;
 }
 
 .contacts_form button[type="submit"]:hover{
-  border: 2px solid white;
   cursor: pointer;
+  background-color: #fff;
+  color: #02A3FF;
 }
 
 .contacts_form button[type="submit"]:active{
-  border: 2px solid grey;
-  background-color: #008fe2;
+  border: 2px solid #F7904C;
 }
 
 .footer {
@@ -397,7 +398,7 @@
   text-align: center;
   height: 80px;
   padding: 0 20px;
-  background-color: #1F2D6D;
+  background-color: #000;
   color: white;
 }
 
